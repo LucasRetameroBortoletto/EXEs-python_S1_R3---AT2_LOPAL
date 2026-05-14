@@ -6,3 +6,4 @@ for i in range(0, 101):
     print("Esse número é par: {}".format(i))
   else:
     print("Esse número é impar: {}".format(i))
+    

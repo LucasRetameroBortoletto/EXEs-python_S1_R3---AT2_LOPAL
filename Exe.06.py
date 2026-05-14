@@ -11,3 +11,4 @@ else:
           break
   else:
       print("O número {} é primo".format(numero))
+      

@@ -8,3 +8,4 @@ for letras in palavra:
     # vai printando pedaços cada vez maiores da string
     print(palavra[0:quantidade])
     quantidade += 1
+    
