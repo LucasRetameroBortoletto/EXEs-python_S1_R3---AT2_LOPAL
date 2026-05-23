@@ -11,7 +11,7 @@ while True:
 #faz a validação de idade
 while True:
   idade = int(input("Digite sua idade: "))
-  if idade < 150 and idade > 0:
+  if idade < 151 and idade > 0:
     break
   else:
     print("--> {} <-- não é uma informação válida.".format(idade))
